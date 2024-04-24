@@ -1,0 +1,59 @@
+[font]
+size = 10
+
+[font.bold]
+family = "JetBrainsMono Nerd Font"
+style = "Bold"
+
+[font.bold_italic]
+family = "JetBrainsMono Nerd Font"
+style = "Bold Italic"
+
+[font.italic]
+family = "JetBrainsMono Nerd Font"
+style = "Italic"
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+style = "Regular"
+
+[colors.cursor]
+cursor = "#ffffff"
+text = "CellBackground"
+
+[colors.normal]
+black=   "0x000000"
+red=    "0xff0000"
+green=   "0x386c81"
+yellow= "0xc4d2d2"
+blue= "0x0d00ff"
+magenta= "0xfb00ff"
+cyan= "0xe2ab82"
+white= "0xffffff"
+
+[colors.bright]
+black=   "0xff0000"
+red=   "0xff4b16"
+green=   "0xffff75"
+yellow=  "0xff7b83"
+blue=    "0xff9496"
+magenta= "0xffffff"
+cyan=    "0xffa1a1"
+white=   "0xfff6e3"
+
+[colors.primary]
+background = "#111111"
+foreground = "#efefef"
+
+[colors.selection]
+background = "#ffffff"
+text = "CellForeground"
+
+[mouse]
+hide_when_typing = true
+
+[window]
+opacity = 0.5
+decorations = "Full"
+padding = {x = 5, y = 5}
+

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Battery-Alert
+Comment=Notification for battery alert
+Exec=~/.config/battery-alert/battery-alert &
+Type=Application
+Terminal=false
+Hidden=false

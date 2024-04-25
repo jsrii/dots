@@ -9,7 +9,7 @@ This collection of styling is meant to work with a laptop as it features scripts
 Simply drag and drop my dotfiles into your ```.config/``` folder in your home, or copy these set of commands:
 
 ```
-git clone <link>
+git clone https://github.com/jsrii/dots.git
 mv ~/<path> ~/.config
 ```
 

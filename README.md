@@ -19,7 +19,7 @@ Then reload your apps or just restart your device and the configs should be appl
 
 <img src="gitRepoImages/img1.png" alt="Preview 1" style="margin-bottom:1rem"/>
 
-<img src="gitRepoImages/img1.png" alt="Preview 1" style="margin-bottom:1rem"/>
+<img src="gitRepoImages/img2.png" alt="Preview 2" style="margin-bottom:1rem"/>
 
 
 
